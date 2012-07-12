@@ -24,6 +24,17 @@ fi
 lat=$1
 long=$2
 
+#long_min=3550; lat_min=6300; long_max=6500; lat_max=7630
+#base_long="-4."; base_lat="36."
+#while [ $long_min -lt $long_max ]; do 
+#	while [ $lat_min -lt $lat_max ]; do 
+#		echo $base_lat$lat_min $base_long$long_min
+#		let lat_min+=1
+#	done
+#	let long_min+=1
+#done
+
+
 # Si no existe el archivo "paradas.txt", lo creamos (OUTPUT)
 if [ ! -f paradas.txt ]; then
 	# Cabecera de la tabla
@@ -47,12 +58,17 @@ done
 # Contar el número de paradas que llevamos recopiladas
 num=$(grep "http" paradas.txt | wc -l)
 
-# Limpia la consola
-clear
+# Muestra las paradas si ha encontrado alguna nueva
+if [ $counter -gt 0 ]; then
 
-# Muestra la tabla
-cat paradas.txt
+	# Limpia la consola
+	clear
 
-# Pie de tabla
-echo -e "\n\tTotal:\n\t\t$num paradas almacenadas ($counter nuevas)\n"
+	# Muestra la tabla
+	cat paradas.txt
+
+	# Pie de tabla
+	echo -e "\n\tTotal:\n\t\t$num paradas almacenadas ($counter nuevas)\n"
+
+fi
 
