@@ -52,6 +52,7 @@ for Item in $ItemList; do
 	if [ $match -eq 0 ]; then
 		echo $Item >> paradas.txt
 		let counter=counter+1
+		echo -e $lat\t$long >> coordenadas.txt
 	fi
 done
 

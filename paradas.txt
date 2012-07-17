@@ -1,38 +1,6 @@
 
 	Lista de paradas:
 
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2502&name=Andr%C3%A9s+Llorden
-http://82.223.187.119:80/emt_malaga/webservice.php?id=850&name=Facultad+de+Ciencias
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2567&name=Andr%C3%A9s+Llord%C3%A9n
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2253&name=Facultad+de++Filosofia+y+letras
-http://82.223.187.119:80/emt_malaga/webservice.php?id=818&name=Facultad+de+Medicina
-http://82.223.187.119:80/emt_malaga/webservice.php?id=832&name=Facultad+de+Filosof%C3%ADa+y+Letras
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2206&name=Louis+Pasteur
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2056&name=Louis+Pasteur
-http://82.223.187.119:80/emt_malaga/webservice.php?id=817&name=Facultad+de+Derecho
-http://82.223.187.119:80/emt_malaga/webservice.php?id=820&name=Louis+Pasteur+-+Jimenez+Fraud
-http://82.223.187.119:80/emt_malaga/webservice.php?id=833&name=Facultad+de+Derecho
-http://82.223.187.119:80/emt_malaga/webservice.php?id=1452&name=Corregidor+Nicol%C3%A1s+Isidro+-+C.+El+%C3%81ngel
-http://82.223.187.119:80/emt_malaga/webservice.php?id=3169&name=Almogia+-+Nicolas+Isidro
-http://82.223.187.119:80/emt_malaga/webservice.php?id=1469&name=Benagalbon
-http://82.223.187.119:80/emt_malaga/webservice.php?id=3114&name=Corregidor+Fco.+de+Molina+-+Los+Corazones
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2055&name=Plaza+de+Manuel+Aza%C3%B1a
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2003&name=Plaza+de+Manuel+Aza%C3%B1a
-http://82.223.187.119:80/emt_malaga/webservice.php?id=3162&name=Corregidor+Fco.+de+Molina+-+Los+Corazones
-http://82.223.187.119:80/emt_malaga/webservice.php?id=1529&name=Jose+Viciana
-http://82.223.187.119:80/emt_malaga/webservice.php?id=1420&name=Virgen+de+la+Cabeza
-http://82.223.187.119:80/emt_malaga/webservice.php?id=1465&name=Almog%C3%ADa+-+C.+P.++R.+Le%C3%B3n
-http://82.223.187.119:80/emt_malaga/webservice.php?id=467&name=Corregidor+Antonio+de+Bobadilla+-+Instituto
-http://82.223.187.119:80/emt_malaga/webservice.php?id=473&name=Gregorio+Prieto+-+Ciudad+de+la+Justicia
-http://82.223.187.119:80/emt_malaga/webservice.php?id=420&name=Gregorio+Prieto+-+Ciudad+de+la+Justicia
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2207&name=Gregorio+Prieto
-http://82.223.187.119:80/emt_malaga/webservice.php?id=476&name=Gregorio+Prieto
-http://82.223.187.119:80/emt_malaga/webservice.php?id=510&name=Hospital+Clinico
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2503&name=Duque+de+Ahumada
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2251&name=Hospital+Cl%C3%ADnico
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2566&name=Duque+de+Ahumada
-http://82.223.187.119:80/emt_malaga/webservice.php?id=562&name=Dr.+Ortiz+Ramos
-http://82.223.187.119:80/emt_malaga/webservice.php?id=511&name=Dr.+Ortiz+Ramos
 http://82.223.187.119:80/emt_malaga/webservice.php?id=1118&name=Avda.+Salvador+Allende+-+Cementerio
 http://82.223.187.119:80/emt_malaga/webservice.php?id=1134&name=Leopardi+-+Centro+de+Salud
 http://82.223.187.119:80/emt_malaga/webservice.php?id=1119&name=Dr.+Gutierrez+Mata+-+Playa+Virginia
@@ -46,8 +14,8 @@ http://82.223.187.119:80/emt_malaga/webservice.php?id=2911&name=Saavedra
 http://82.223.187.119:80/emt_malaga/webservice.php?id=1121&name=Carretera+de+Ol%C3%ADas+-+Colegio
 http://82.223.187.119:80/emt_malaga/webservice.php?id=1152&name=Carretera+de+Ol%C3%ADas+-+Pelusa
 http://82.223.187.119:80/emt_malaga/webservice.php?id=2929&name=Idumea
-http://82.223.187.119:80/emt_malaga/webservice.php?id=2912&name=Avda.+Miraflores
 http://82.223.187.119:80/emt_malaga/webservice.php?id=2926&name=Algarrobo
+http://82.223.187.119:80/emt_malaga/webservice.php?id=2912&name=Avda.+Miraflores
 http://82.223.187.119:80/emt_malaga/webservice.php?id=2927&name=Algarrobo+-+Potosi
 http://82.223.187.119:80/emt_malaga/webservice.php?id=2913&name=Villafuerte
 http://82.223.187.119:80/emt_malaga/webservice.php?id=2928&name=Carmen+Amaya
